@@ -1,16 +1,13 @@
-# Mass Admin Path Finder
-just an simple script to find admin path
+# Mass XMLRPC Bruteforce
+Wordpress XMLRPC Bruteforce
 
 ## Installation
 ```sh
-$ git clone https://github.com/whoami-45/massfinder
-$ cd massfinder
-$ php find.php
+$ git clone https://github.com/whoami-45/mass-xmlrpc
+$ cd mass-xmlrpc
+$ apt install xargs
+$ php run.php
 ```
-## Info
-[Found Login] = *Found Admin Login*<br>
-[Found] = *Found 200 Status Code*<br>
-[Not Found] = *Path Not Found / 404 Status Code*
 
 ### ScreenShot
-![shot](https://i.imgur.com/Y01aLig.png)
+![shot](https://i.imgur.com/ygIbEYR.png)
